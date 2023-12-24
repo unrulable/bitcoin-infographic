@@ -2,10 +2,12 @@
 
 - title: Home
   url: /
+- title: Bitcoin Is...
+  url: /bitcoinis/
 - title: Blockchain
   url: /blockchain/
-# - title: Categories
-#   url: /categories/
+- title: Wallets
+  url: /wallets/
 # - title: Tags
 #   url: /tags/
 # - title: Recipes

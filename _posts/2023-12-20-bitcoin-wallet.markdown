@@ -3,7 +3,7 @@ layout: post
 title: Bitcoin Wallet
 sidebar:
   nav: layouts
-categories: bitcoinWallet
+categories: wallets
 ---
 ![Bitcoin Block](/img/bitcoin-wallet.png)
 
