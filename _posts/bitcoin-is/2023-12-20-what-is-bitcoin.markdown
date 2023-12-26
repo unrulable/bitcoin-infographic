@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Bitcoin Digital Currency
+title: Digital Currency
 sidebar:
   nav: layouts
 categories: bitcoinis
+thumbnailImage: /img/bitcoin-digital-currency.png
 ---
 ![Bitcoin Block](/img/bitcoin-digital-currency.png)
 

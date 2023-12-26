@@ -6,7 +6,10 @@ collection: blockchain
 entries_layout: grid
 ---
 
-<h1>Blockchain Posts</h1>
+<h1>Pictures Related to the Bitcoin Blockchain</h1>
+
+<hr/>
 {% for post in site.categories.blockchain %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <h2>{{ post.title }}</h2>
+  <a href="{{ post.url }}"><img src="{{ post.thumbnailImage }}"/></a>
 {% endfor %}

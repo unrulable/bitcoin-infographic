@@ -5,8 +5,10 @@ permalink: /wallets/
 collection: wallets
 entries_layout: grid
 ---
+<h1>Pictures Related to the Bitcoin Wallets</h1>
 
-<h1>Wallet Posts:</h1>
+<hr/>
 {% for post in site.categories.wallets %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <h2>{{ post.title }}</h2>
+  <a href="{{ post.url }}"><img src="{{ post.thumbnailImage }}"/></a>
 {% endfor %}
