@@ -4,10 +4,16 @@ title: Bitcoin Wallet Public Key
 sidebar:
   nav: layouts
 categories: wallets
-thumbnailImage: /img/bitcoin-wallet.png
+thumbnailImage: /img/public-key.ping
 ---
-![Bitcoin Block](/img/bitcoin-wallet.png)
+![Bitcoin Block](/img/public-key.png)
 
-- Collection of your keys (public/private) to interact with YOUR Bitcoin
-- The Private Key unlocks the access to the associated Bitcoin address and ALL Bitcoin in that address.
+<table style="border: 1px solid black; border-collapse: collapse;">
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">Your Public Key is exposed to the world.</td>
+  </tr>
+  <tr style="border: 1px solid black;">
+    <td style="border: 1px solid black;">The Public Key derives/creates Bitcoin addresses that users can use to send you Bitcoin</td>
+  </tr>
+</table>
 
