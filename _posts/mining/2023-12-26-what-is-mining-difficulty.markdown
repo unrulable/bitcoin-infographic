@@ -3,10 +3,10 @@ layout: post
 title: Mining Difficulty
 sidebar:
   nav: layouts
-categories: blockchain
-thumbnailImage: /img/mining-difficulty.png
+categories: mining
+thumbnailImage: /img/mining-difficulty-infographic.png
 ---
-![Mining Difficult 10 Minutes](/img/mining-difficulty.png)
+![Mining Difficult 10 Minutes](/img/mining-difficulty-infographic.png)
 
 <table style="border: 1px solid black; border-collapse: collapse;">
   <tr style="border: 1px solid black;">
