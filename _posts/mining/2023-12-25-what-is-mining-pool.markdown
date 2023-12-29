@@ -4,7 +4,7 @@ title: What is a Mining Pool
 sidebar:
   nav: layouts
 categories: mining
-thumbnailImage: /img/what-is-bitcoin-mining-pool.png
+thumbnailImage: /img/mining-pool-infographic.png
 ---
-![How Mining Workss](/img/what-is-bitcoin-mining-pool.png)
+![How Mining Workss](/img/mining-pool-infographic.png)
 
