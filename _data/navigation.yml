@@ -4,6 +4,8 @@
   url: /
 # - title: Bitcoin Is...
 #   url: /bitcoinis/
+- title: Getting Started
+  url: /gettingstarted/
 - title: Blockchain
   url: /blockchain/
 # - title: History
@@ -15,5 +17,5 @@
 # - title: Wallets
 #   url: /wallets/
 
-# - title: External Page
-#   url: https://the-page.com/you-want-to-link-to.html
+- title: Bitcoin Whitepaper
+  url: https://bitcoin.org/bitcoin.pdf

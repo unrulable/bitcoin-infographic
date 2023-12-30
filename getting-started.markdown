@@ -1,13 +1,13 @@
 ---
 title: Blockchain
 layout: default
-permalink: /blockchain/
-collection: blockchain
+permalink: /gettingstarted/
+collection: gettingstarted
 entries_layout: grid
 ---
 <hr/>
 <div style="text-align:center;">
-    {% for post in site.categories.blockchain %}
+    {% for post in site.categories.gettingstarted %}
         <h2>{{ post.title }}</h2>
         <a href="{{ post.url }}"><img src="{{ post.thumbnailImage }}"/></a>
     {% endfor %}
