@@ -14,8 +14,8 @@
   url: /mining/
 - title: Nodes
   url: /nodes/
-# - title: Wallets
-#   url: /wallets/
+- title: Transactions
+  url: /transactions/
 
 - title: Bitcoin Whitepaper
   url: https://bitcoin.org/bitcoin.pdf
