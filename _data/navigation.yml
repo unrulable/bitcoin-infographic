@@ -1,13 +1,13 @@
 # Sample site navigation bar links
 
-- title: Home
-  url: /
+# - title: Home
+#   url: /
 # - title: Bitcoin Is...
 #   url: /bitcoinis/
-- title: Getting Started
-  url: /gettingstarted/
 - title: Blockchain
   url: /blockchain/
+- title: Getting Started
+  url: /gettingstarted/
 # - title: History
 #   url: /history/
 - title: Mining
@@ -17,5 +17,5 @@
 - title: Transactions
   url: /transactions/
 
-- title: Bitcoin Whitepaper
-  url: https://bitcoin.org/bitcoin.pdf
+# - title:  Whitepaper
+#   url: https://bitcoin.org/bitcoin.pdf
