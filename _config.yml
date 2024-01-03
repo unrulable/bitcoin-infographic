@@ -35,9 +35,6 @@ footer_links:
   - title: Twitter
     url: https://twitter.com/btcinfographic
     icon: fab fa-twitter-square
-  - title: PayNym
-    url: https://paynym.is/+withereddisk7E9
-    icon: fa fa-cube
 jekyll-archives:
   enabled: []
   layout: archive
