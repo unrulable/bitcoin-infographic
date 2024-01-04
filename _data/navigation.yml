@@ -8,8 +8,8 @@
   url: /blockchain/
 - title: Getting Started
   url: /gettingstarted/
-# - title: Key Concepts
-#   url: /keyconcepts/
+- title: Key Concepts
+  url: /keyconcepts/
 - title: Mining
   url: /mining/
 - title: Nodes

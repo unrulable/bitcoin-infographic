@@ -4,6 +4,6 @@ title: Cryptography
 sidebar:
   nav: layouts
 categories: keyconcepts
-thumbnailImage: /img/decentralization-infographic.png
+thumbnailImage: /img/cryptography-infographic.png
 ---
-![Bitcoin Block](/img/decentralization-infographic.png)
+![Bitcoin Block](/img/cryptography-infographic.png)
