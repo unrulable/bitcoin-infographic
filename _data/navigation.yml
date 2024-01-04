@@ -8,14 +8,16 @@
   url: /blockchain/
 - title: Getting Started
   url: /gettingstarted/
-- title: Key Concepts
-  url: /keyconcepts/
+# - title: Key Concepts
+#   url: /keyconcepts/
 - title: Mining
   url: /mining/
 - title: Nodes
   url: /nodes/
 - title: Transactions
   url: /transactions/
+- title: About
+  url: /about/
 
 # - title:  Whitepaper
 #   url: https://bitcoin.org/bitcoin.pdf

@@ -4,6 +4,6 @@ title: Blockchain
 sidebar:
   nav: layouts
 categories: keyconcepts
-thumbnailImage: /img/blockchain-infographic.png
+thumbnailImage: /img/bitcoin-blockchain-infographic-v2.png
 ---
-![Bitcoin Block](/img/blockchain-infographic.png)
+![Bitcoin Block](/img/bitcoin-blockchain-infographic-v2.png)
